@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=orang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ orang\ here.\r\n\ \r\n\ @author\ (andika_2115101003)\ \r\n\ @version\ (3_6)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ orang\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ robotMovement()
+comment3.params=
+comment3.target=void\ detectWallCollision()
+comment4.params=
+comment4.target=void\ detectBlockCollision()
+comment5.params=
+comment5.target=void\ detectHome()
+numComments=6
